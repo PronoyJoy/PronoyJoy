@@ -30,6 +30,6 @@ Soft Skills : Research, Creativity, Observation, Critical Analysis, Empathy <br>
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=PronoyJoy" />
 </p> 
   
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 
 

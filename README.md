@@ -1,4 +1,4 @@
-## 💐🌼🌻 🆆🅴🅻🅲🅾🅼🅴   🆃🅾 🅿🆁🅾🅽🅾🆈'🆂  🅶🅸🆃🅷🆄🅱 🅿🆁🅾🅵🅸🅻🅴 ! 🎸 🎹 ✒️
+## 💐🌼🌻 🆆🅴🅻🅲🅾🅼🅴   🆃🅾 🅿🆁🅾🅽🅾🆈'🆂  🅶🅸🆃🅷🆄🅱 🅿🆁🅾🅵🅸🅻🅴 ! 🎸 🎹 
 
 
 
@@ -60,6 +60,24 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   
-  
-
 </div>
+
+
+<h1>🅶🅸🆃🅷🆄🅱 🅷🅸🆂🆃🅾🆁🆈</h1>
+
+<p align="center">
+  <a href="https://github.com/PronoyJoy">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PronoyJoy&theme=radical&border=7F3FBF&background=0D1117" alt="Pronoy's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/PronoyJoy">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PronoyJoy&theme=radical" alt="Pronoy's GitHub Contribution"/>
+  </a>
+</p>
+
+
+
+
+

@@ -21,9 +21,10 @@
   <img src="https://img.shields.io/badge/HackeRank-black?&style=for-the-badge&logo=HackeRank&logoColor=white" alt="Pronoy" />
  </a>
   🐼
-  <a href="<a href="<a href="https://leetcode.com/ProJoy/" target="_blank">
+   <a href="https://www.leetcode.com/ProJoy" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-black?&style=for-the-badge&logo=LeetCode&logoColor=white" alt="Pronoy" />
  </a>
+ 
   
 </p>
 

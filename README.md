@@ -17,10 +17,13 @@
   <img src="https://img.shields.io/badge/Gmail-offwhite?&style=for-the-badge&logo=Gmail&logoColor=rgb" alt="Pronoy" />
  </a>
   🐱
- <a href="https://www.hackerrank.com/jofficial248" target="_blank">
+ <a href="https://www.hackerrank.com/pronoy_das" target="_blank">
   <img src="https://img.shields.io/badge/HackeRank-black?&style=for-the-badge&logo=HackeRank&logoColor=white" alt="Pronoy" />
  </a>
   🐼
+  <a href="<a href="<a href="https://leetcode.com/ProJoy/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-black?&style=for-the-badge&logo=LeetCode&logoColor=white" alt="Pronoy" />
+ </a>
   
 </p>
 

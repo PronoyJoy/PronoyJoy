@@ -13,9 +13,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Pronoy"/>
  </a>
   🐧
-  <a href="pronoy.das.developer@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-offwhite?&style=for-the-badge&logo=Gmail&logoColor=rgb" alt="Pronoy" />
- </a>
+  
   🐱
  <a href="https://www.hackerrank.com/pronoy_das" target="_blank">
   <img src="https://img.shields.io/badge/HackeRank-black?&style=for-the-badge&logo=HackeRank&logoColor=white" alt="Pronoy" />

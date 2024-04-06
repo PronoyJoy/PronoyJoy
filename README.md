@@ -1,9 +1,7 @@
-![216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c](https://github.com/PronoyJoy/PronoyJoy/assets/87540118/0317c257-3b0b-48f8-a740-ca891e469739)
-![216649443-702212b5-2704-4b2c-8ab0-38bf536a0d41](https://github.com/PronoyJoy/PronoyJoy/assets/87540118/15c04192-2da5-4879-ba37-714d470bd5c5)
 
-## 💐🌼🌻 𝐇𝐞𝐲 ! 𝐆𝐨𝐨𝐝 𝐏𝐞𝐨𝐩𝐥𝐞, 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐌𝐘 𝐆𝐢𝐭𝐡𝐮𝐛 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 ! 🎸 🎹 
+![216649443-702212b5-2704-4b2c-8ab0-38bf536a0d41](https://github.com/PronoyJoy/PronoyJoy/assets/87540118/15c04192-2da5-4879-ba37-714d470bd5c5) ![216656944-f8c1b44e-493b-487f-87be-6cfe6a1a3374](https://github.com/PronoyJoy/PronoyJoy/assets/87540118/e64f95f1-1493-49e8-9e4b-065af5f4a6c6)       ![240818493-79258361-c121-400c-8245-600b272b1eea](https://github.com/PronoyJoy/PronoyJoy/assets/87540118/444f2bcf-238b-4d54-84e6-c455b1a8fc21)
+##  𝐇𝐞𝐲 ! 𝐆𝐨𝐨𝐝 𝐏𝐞𝐨𝐩𝐥𝐞, 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐌𝐘 𝐆𝐢𝐭𝐡𝐮𝐛 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 ! 🎸 🎹 
 
-![216656944-f8c1b44e-493b-487f-87be-6cfe6a1a3374](https://github.com/PronoyJoy/PronoyJoy/assets/87540118/e64f95f1-1493-49e8-9e4b-065af5f4a6c6)
 
 
 
@@ -27,7 +25,7 @@
 
 <hr>
 
-![240818493-79258361-c121-400c-8245-600b272b1eea](https://github.com/PronoyJoy/PronoyJoy/assets/87540118/444f2bcf-238b-4d54-84e6-c455b1a8fc21)
+
 
 ![68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://github.com/PronoyJoy/PronoyJoy/assets/87540118/9b07104e-ee37-4445-b50f-be7ba56b0492)
 
@@ -46,8 +44,6 @@
 
 
 <hr>
-
-
 <h1> 🆂🅺🅸🅻🅻🆂 </h1>
 
 ![212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5](https://github.com/PronoyJoy/PronoyJoy/assets/87540118/c7d3b103-bbf3-4519-b7bd-b4907fb0a5a6)
@@ -76,34 +72,3 @@
 </div>
 
 
-![212284158-e840e285-664b-44d7-b79b-e264b5e54825](https://github.com/PronoyJoy/PronoyJoy/assets/87540118/e988eda8-9714-4a01-ae69-553ddd7ce641)
-
-
-
-
-
-![240815068-993370af-11f4-48e7-9e0d-e5b79c2e7890](https://github.com/PronoyJoy/PronoyJoy/assets/87540118/91e88ef1-b2d0-43fa-b58b-84d80da09717)
-
-
-
-
-
-
-![213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3](https://github.com/PronoyJoy/PronoyJoy/assets/87540118/02beb055-e1dc-4ec7-b4db-18ade22985d4)
-<h1>🅶🅸🆃🅷🆄🅱 🅷🅸🆂🆃🅾🆁🆈</h1>
-
-<p align="center">
-  <a href="https://github.com/PronoyJoy">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PronoyJoy&theme=radical&border=7F3FBF&background=0D1117" alt="Pronoy's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/PronoyJoy">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PronoyJoy&theme=radical" alt="Pronoy's GitHub Contribution"/>
-  </a>
-</p>
-
-![216649436-05c6a71a-0566-45aa-bc3f-f258ab12e491](https://github.com/PronoyJoy/PronoyJoy/assets/87540118/184014d7-7d44-4a17-9094-f3533b190ab3)
-![229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67](https://github.com/PronoyJoy/PronoyJoy/assets/87540118/31545fa2-a15e-49a1-9b3d-e01840f5897c)
-![215283043-76c34df4-b495-46c3-b174-7aca38032b91](https://github.com/PronoyJoy/PronoyJoy/assets/87540118/dbaa0392-f5df-40c6-8232-2e507fed06ee)
